@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Roger Photograph, please share your photograph on this hub!
 
 You can use the [editor on GitHub](https://github.com/RogerLHJ/Photograph/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
